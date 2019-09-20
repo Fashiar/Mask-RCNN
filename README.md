@@ -21,7 +21,7 @@ To run the demo successfully, follow the steps shown below:
     4. Run the "train_mrcnn.ipynb" file to train and testing
     
 In case of failing to open the "train_mrcnn.ipynb" file here, go to: https://nbviewer.jupyter.org/ 
-and paste the link of the notebook here
+and paste https://github.com/Fashiar/Mask-RCNN/blob/master/train_mrcnn.ipynb to the viewer tab
 
 Acknowledgement:
       Thanks to Emmersive-limit to give the idea of image systhesis for coco-like dataset
